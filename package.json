@@ -1,0 +1,29 @@
+{
+    "name": "scripting",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "files": [
+        "dist"
+    ],
+    "outDir": "./dist",
+    "main": "./src/main.ts",
+    "scripts": {
+        "rollup": "rollup -c"
+    },
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^25.0.0",
+        "@rollup/plugin-node-resolve": "^15.2.3",
+        "@rollup/plugin-typescript": "^11.1.6",
+        "@types/node": "^18.19.8",
+        "jsxbin": "^2.2.0",
+        "rollup": "^4.9.0",
+        "rollup-plugin-jsxbin2": "^1.0.9",
+        "@rollup/plugin-terser": "^0.4.4",
+        "types-for-adobe": "^7.0.12",
+        "types-for-adobe-extras": "^0.0.1",
+        "typescript": "^5.3.3",
+        "tslib": "^2.6.2"
+    },
+    "dependencies": {}
+}

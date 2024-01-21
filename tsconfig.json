@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "removeComments": true,
+        "module": "ESNext",
+        "ignoreDeprecations": "5.0",
+        "baseUrl": "src",
+        "outDir": "./dist",
+        "jsx": "preserve",
+    },
+    "include": [
+        "index.d.ts",
+        "./node_modules/types-for-adobe/AfterEffects/22.0/index.d.ts",
+        "src/**.ts",
+        "src/**.tsx",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
