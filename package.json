@@ -18,7 +18,7 @@
         "@types/node": "^18.19.8",
         "jsxbin": "^2.2.0",
         "rollup": "^4.9.0",
-        "rollup-plugin-jsxbin2": "^1.0.9",
+        "rollup-plugin-jsxbin2": "^1.0.10",
         "@rollup/plugin-terser": "^0.4.4",
         "types-for-adobe": "^7.0.12",
         "types-for-adobe-extras": "^0.0.1",
