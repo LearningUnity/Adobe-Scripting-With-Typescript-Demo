@@ -2,7 +2,8 @@
 2. git clone this project
 3. npm / yanr / pnpm
 4. open "src/main.tsx"
-5. right click and run ae script("运行ae脚本")
+5. F5 Attach to AE 
+6. right click and run ae script("运行ae脚本")
 
 Success!
 
